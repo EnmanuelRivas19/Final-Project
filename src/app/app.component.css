@@ -6,3 +6,24 @@
     padding-left: 7%;
     margin-left: 20%;
 }
+
+.navbar {
+    height: 55px;
+    background-color:  #403e3e; /*#7e6843;*/
+    position: sticky;
+    top: 50;
+    width: 100%; 
+}
+
+nav h1 {color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+  text-shadow: 1px 2px 2px  black;  }
+
+  nav h1:hover {  color:rgb(184,184,184);
+      transition: 0.5s;
+  }
