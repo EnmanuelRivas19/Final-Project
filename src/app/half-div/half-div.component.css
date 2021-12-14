@@ -1,4 +1,5 @@
 * {box-sizing: border-box;
+    transform: translateY(-100);
 }
 body {margin: 0;
 padding: 0;
@@ -25,7 +26,7 @@ text-align: justify;}
 .imagebox {
     width: calc(50% + 50px);
     height: 100%;
-    background-color: #E9AB17;
+    background-color: #007bff;
     border-left: 100px solid #444;
     border-bottom: 400px solid transparent;
 }
