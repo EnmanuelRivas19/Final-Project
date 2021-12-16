@@ -31,4 +31,17 @@ text-align: justify;}
     border-bottom: 400px solid transparent;
 }
 h1 {text-transform: uppercase;
-color: white ;}
+color: white ;
+position: absolute;
+padding-left: 10%;
+padding-top: 2.3%;}
+
+p {color: white;
+padding-left: 34.2%;
+padding-top: 15.3%; }
+
+.checkin {
+    color: white;
+    padding-left: 10.2%;
+    position: absolute;;
+}

@@ -5,10 +5,11 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { CarouselComponent } from './carousel/carousel.component';
 import { FooterComponent } from './footer/footer.component';
-import { NavHeaderComponent } from './nav-header/nav-header.component';
 import { DatePickerComponent } from './date-picker/date-picker.component';
 import { CUSTOM_ELEMENTS_SCHEMA } from "@angular/core";
 import { HalfDivComponent } from './half-div/half-div.component';
+import { NavigationbarComponent } from './navigationbar/navigationbar.component';
+import { ReservationComponent } from './reservation/reservation.component';
 
 
 @NgModule({
@@ -16,9 +17,10 @@ import { HalfDivComponent } from './half-div/half-div.component';
     AppComponent,
     CarouselComponent,
     FooterComponent,
-    NavHeaderComponent,
     DatePickerComponent,
     HalfDivComponent,
+    NavigationbarComponent,
+    ReservationComponent,
     
   ],
   imports: [
