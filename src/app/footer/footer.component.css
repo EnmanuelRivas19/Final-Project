@@ -311,3 +311,5 @@ font-weight: bold; }
       cursor: pointer;
       background: #FA6742;
       border-color: #FA6742; }
+      
+      a{text-decoration: none;}

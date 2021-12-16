@@ -10,6 +10,9 @@ import { CUSTOM_ELEMENTS_SCHEMA } from "@angular/core";
 import { HalfDivComponent } from './half-div/half-div.component';
 import { NavigationbarComponent } from './navigationbar/navigationbar.component';
 import { ReservationComponent } from './reservation/reservation.component';
+import { NextpageComponent } from './nextpage/nextpage.component';
+import { HomePageComponent } from './home-page/home-page.component';
+import { Combo1Component } from './combo1/combo1.component';
 
 
 @NgModule({
@@ -21,6 +24,9 @@ import { ReservationComponent } from './reservation/reservation.component';
     HalfDivComponent,
     NavigationbarComponent,
     ReservationComponent,
+    NextpageComponent,
+    HomePageComponent,
+    Combo1Component,
     
   ],
   imports: [
