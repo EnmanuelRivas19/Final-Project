@@ -1,0 +1,19 @@
+a{
+  background-color: rgb(245, 212, 150);  
+  color:black;
+padding: 20px 30px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+p a{
+    background-color: rgb(245, 212, 150);  
+    color:rgb(34, 29, 29);
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
